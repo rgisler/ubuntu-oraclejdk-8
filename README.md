@@ -1,8 +1,7 @@
-# Docker: ubuntu-openjdk-8
+# Docker: ubuntu-oraclejdk-8
 
  * Ubuntu 
- * Oracle JDK 8
+ * OpenJDK 8
  * git
  * maven
- * gradle
- 
+ * gradle 
